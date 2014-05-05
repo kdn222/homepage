@@ -1,0 +1,11 @@
+
+h1 {color: white;}
+.header {color: red;}
+/*kropka to klasa*/
+/*CTRL+/ - wstawia autoamtycznie komentarz*/
+#uniq {font-size: 100px;}
+/*to jest identyfikator*/
+#header {
+	color: cyan; 
+	font-size: 10px;
+}
